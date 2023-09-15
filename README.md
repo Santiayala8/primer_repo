@@ -1,2 +1,3 @@
-# primer_repo
-Clase demo
+# Welcome
+
+I just kearned to use GitHub 
